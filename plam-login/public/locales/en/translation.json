@@ -1,0 +1,41 @@
+{
+    "fullname": {
+        "1": "Fullname"
+    },
+    "age": {
+        "1": "Age"
+    },
+    "tel": {
+        "1": "Tel"
+    },
+    "newpassword": {
+        "1": "NewPassword"
+    },
+    "email": {
+        "1": "Email"
+    },
+    "password": {
+        "1": "Passwords"
+    },
+    "ok": {
+        "1": "ok"
+    },
+    "oldpassword": {
+        "1": "OldPasswords"
+    },
+    "register": {
+        "1": "Register"
+    },
+    "repassword": {
+        "1": "Repassword"
+    },
+    "id": {
+        "1": "Id"
+    },
+    "edit": {
+        "1": "Edit"
+    },
+    "login": {
+        "1": "Login"
+    }
+}
